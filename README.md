@@ -26,7 +26,7 @@ This is the server application for the Pokédex project, implemented using Flask
 2. Navigate to the project directory:
 
    ```bash
-   cd pokedex-backend
+   cd pokedex-server
    ```
 
 3. Install the dependencies
