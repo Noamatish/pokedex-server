@@ -20,7 +20,7 @@ This is the server application for the Pokédex project, implemented using Flask
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Noamatish/pokedex-backend.git
+   git clone https://github.com/Noamatish/pokedex-server.git
    ```
 
 2. Navigate to the project directory:
